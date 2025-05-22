@@ -27,9 +27,9 @@ The application follows a **3-layer architecture**:
 
 ## 🧱 Technologies Used
 
-- **Programming Language**: Java / C# (object-oriented)
-- **UI Framework**: JavaFX / Windows Forms / WPF
-- **Database**: MySQL / SQL Server
+- **Programming Language**: Java  (object-oriented)
+- **UI Framework**: JavaFX 
+- **Database**: SQL Server
 - **ORM Library**: Hibernate / Entity Framework
 - **CASE Tool for UML**: StarUML
 - **Logging**: SLF4J / Serilog
